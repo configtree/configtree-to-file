@@ -1,7 +1,7 @@
 import requests
 import json
 
-BASE_PATH = "http://host.docker.internal:8000"
+BASE_PATH = "http://api.configtree.co:8000"
 
 
 class Client(object):
