@@ -1,7 +1,7 @@
 import requests
 import json
 
-BASE_PATH = "http://api.configtree.co:8000"
+BASE_PATH = "http://api.configtree.co"
 
 
 class Client(object):
